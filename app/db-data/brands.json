@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Philips"
+    },
+    {
+        "id":2,
+        "name":"Samsung"
+    },
+    {
+        "id":3,
+        "name":"Xiaomi"
+    },
+    {
+        "id":4,
+        "name":"Johnson & Johnson"
+    },
+    {
+        "id":5,
+        "name":"Kraft Heinz"
+    },
+    {
+        "id":6,
+        "name":"L'Oreal"
+    }
+]

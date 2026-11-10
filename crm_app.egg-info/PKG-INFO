@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: crm-app
+Version: 0.0.1
+Summary: Высоконагруженное API на FastAPI
+Author-email: Ваше Имя <your.email@example.com>
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: alembic>=1.18.4
+Requires-Dist: bcrypt==4.0.1
+Requires-Dist: fastapi>=0.136.3
+Requires-Dist: passlib>=1.7.4
+Requires-Dist: psycopg2>=2.9.12
+Requires-Dist: pydantic>=2.13.4
+Requires-Dist: pydantic-settings>=2.14.1
+Requires-Dist: pyjwt[crypto]>=2.13.0
+Requires-Dist: python-multipart>=0.0.29
+Requires-Dist: sqlalchemy>=2.0.50
+
+pip install uv
+uv pip install -e .

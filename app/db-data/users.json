@@ -1,0 +1,74 @@
+[
+
+    {
+
+       "id":"1eef8ac7-463a-4e06-a9c6-7ab49b332191",
+       "email":"n@mail.ru",
+       "username":"natali",
+        "first_name":"string",
+       "last_name":"string",
+       "password":"$2b$12$.DaIkco4bw81fxoXHdhqiujgJ6opu0wfv2WdIt7YdMYQRtfTVEn2y",
+       "phone":"string",
+       "photo":"string",
+       "created_at":"2026-05-26 11:07:37.492",
+       "updated_at":"2026-05-26 11:07:37.492+03",
+       "is_active": true,
+       "role_id":1
+    },
+    {
+       "id":"c8b9ed08-d1f6-42e4-b327-eaeb1262dbdd",
+       "email":"gg@mail.ru",
+       "username":"gg",
+        "first_name":"Grisha",
+       "last_name":"Gavrilov",
+       "password":"$2b$12$xyNpa.NnHN5vyRGRQXwWR.qjluk/MYfKnMLbNrsOwRvp6rdEFKyhm",
+       "phone":"89091235643",
+       "photo":"string",
+       "created_at":"2026-05-28 16:33:53.552",
+       "updated_at":"2026-05-28 16:33:53.552+03",
+       "is_active": true,
+       "role_id":6
+    },
+    {
+       "id":"c79a28cd-1618-4069-8997-0aa8fb4f85c4",
+       "email":"maslova@mail.ru",
+       "username":"albina",
+        "first_name":"Albina",
+       "last_name":"Maslova",
+       "password":"$2b$12$KSM0eDtsBplViU1YhQgZWeGExLwQyw3UVcFz8DTpBhPt0lEL5cP7G",
+       "phone":"89185674321",
+       "photo":"string",
+       "created_at":"2026-05-28 15:33:53.552",
+       "updated_at":"2026-06-16 13:43:18.192159+03",
+       "is_active":true,
+       "role_id":1
+    },
+    {
+       "id":"bb95c70c-1268-4f96-a799-4144a2f250f6",
+       "email":"srita@mail.ru",
+       "username":"guru",
+        "first_name":"Rita",
+       "last_name":"Somova",
+       "password":"$2b$12$MbiYKxpILuiiLZPp.Tvur.YFmIW0Vg3eXbXa.7/1GsdvwGyiIbMli",
+       "phone":"89185674321",
+       "photo":"string",
+       "created_at":"2026-05-28 16:33:53.552",
+       "updated_at":"2026-06-16 14:25:05.194056+03",
+       "is_active":true,
+       "role_id":3
+    },
+    {
+       "id":"2566cf92-db1f-489b-be72-463342c0538b",
+       "email":"dsavinov@mail.ru",
+       "username":"dsavinov",
+        "first_name":"Dmitrii",
+       "last_name":"Savinov",
+       "password":"$2b$12$0xO5Gpx9eWhUpfaL0XLz8egGDVbNcqCEIvZOebxoYd7tU5O183hNe",
+       "phone":"89885467896",
+       "photo":"string",
+       "created_at":"2026-05-28 14:33:53.552",
+       "updated_at":"2026-06-16 14:36:18.75077+03",
+       "is_active":true,
+       "role_id":3
+    }
+]

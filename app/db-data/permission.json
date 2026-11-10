@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"edit_order"
+    },
+    {
+        "id":2,
+        "name":"edit_client"
+    },
+    {
+        "id":3,
+        "name":"edit_good"
+    },
+    {
+        "id":4,
+        "name":"edit_leftover"
+    },
+    {
+        "id":5,
+        "name":"edit_finance"
+    },
+    {
+        "id":6,
+        "name":"edit_analitic"
+    },
+    {
+        "id":7,
+        "name":"import_export_data"
+    }
+]
